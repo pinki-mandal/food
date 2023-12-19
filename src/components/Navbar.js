@@ -7,7 +7,7 @@ import {MdFavorite, MdHelp} from 'react-icons/md'
 
 const Navbar = () => {
 const [nav, setNav] = useState(false)
-const [searchTerm, setSearchTerm] = useState('');
+
 
 
 
