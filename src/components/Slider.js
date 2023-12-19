@@ -9,7 +9,7 @@ import 'swiper/css/scrollbar';
 // Import Swiper styles
 import 'swiper/css';
 
-export default  myFunction1 =() => {
+export default () => {
   return (
     <Swiper
     modules={[Navigation, Pagination, Scrollbar, A11y]}
