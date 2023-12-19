@@ -34,7 +34,7 @@ const [nav, setNav] = useState(false)
           className='bg-transparent p-2 w-full focus:outline-none'
           type='text'
           placeholder='Search foods'
-          onChange={(e) => setSearchTerm(e.target.value)}
+          
       
         />
       </div>
